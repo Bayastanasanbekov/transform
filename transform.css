@@ -36,7 +36,7 @@ div:nth-child(4) {
     
 }
 div:nth-child(5):hover {
-    transform: translateY(-30px);
+   
 }
 div:nth-child(7):hover {
     transform: translate(30px);
