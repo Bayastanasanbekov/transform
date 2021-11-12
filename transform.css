@@ -25,9 +25,6 @@ div:nth-child(1) {
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-iteration-count:infinite;
-    
-    
-    bcdn
 }
 div:nth-child(2):hover {
     transform: skewY(30deg);
